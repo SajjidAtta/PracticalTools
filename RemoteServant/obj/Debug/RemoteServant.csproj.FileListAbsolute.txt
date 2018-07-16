@@ -1,0 +1,16 @@
+c:\users\sajjid atta g\documents\visual studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe.config
+C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.pdb
+C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\obj\Debug\RemoteServant.csprojResolveAssemblyReference.cache
+C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\obj\Debug\RemoteServant.ProjectInstaller.resources
+C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\obj\Debug\RemoteServant.csproj.GenerateResource.Cache
+C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\obj\Debug\RemoteServant.exe
+C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\obj\Debug\RemoteServant.pdb
+D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe.config
+D:\PersonelSVN\trunk\RemoteServant\RemoteServant\obj\Debug\RemoteServant.exe
+D:\PersonelSVN\trunk\RemoteServant\RemoteServant\obj\Debug\RemoteServant.pdb
+D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.pdb
+D:\PersonelSVN\trunk\RemoteServant\RemoteServant\obj\Debug\RemoteServant.ProjectInstaller.resources
+D:\PersonelSVN\trunk\RemoteServant\RemoteServant\obj\Debug\RemoteServant.csproj.GenerateResource.Cache
+D:\PersonelSVN\trunk\RemoteServant\RemoteServant\obj\Debug\RemoteServant.csprojResolveAssemblyReference.cache

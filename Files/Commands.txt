@@ -1,0 +1,2 @@
+echo "call start explorer.exe" > some.bat
+call some.bat
