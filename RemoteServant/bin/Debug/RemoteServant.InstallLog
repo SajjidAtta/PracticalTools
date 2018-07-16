@@ -1,0 +1,76 @@
+﻿Installing assembly 'C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.InstallLog
+   assemblypath = C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+Installing service RemoteServant...
+Creating EventLog source RemoteServant in log Application...
+Rolling back assembly 'C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.InstallLog
+   assemblypath = C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+Restoring event log to previous state for source RemoteServant.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.InstallLog
+   assemblypath = C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+Installing service RemoteServant...
+Service RemoteServant has been successfully installed.
+Creating EventLog source RemoteServant in log Application...
+Committing assembly 'C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.InstallLog
+   assemblypath = C:\Users\SAJJID ATTA G\Documents\Visual Studio 2015\Projects\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+Installing assembly 'D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.InstallLog
+   assemblypath = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+Installing service RemoteServant...
+Service RemoteServant has been successfully installed.
+Creating EventLog source RemoteServant in log Application...
+Committing assembly 'D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.InstallLog
+   assemblypath = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+Installing assembly 'D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.InstallLog
+   assemblypath = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+Installing service RemoteServant...
+Creating EventLog source RemoteServant in log Application...
+Rolling back assembly 'D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.InstallLog
+   assemblypath = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+Restoring event log to previous state for source RemoteServant.
+Uninstalling assembly 'D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.InstallLog
+   assemblypath = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+Removing EventLog source RemoteServant.
+Service RemoteServant is being removed from the system...
+Service RemoteServant was successfully removed from the system.
+Installing assembly 'D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.InstallLog
+   assemblypath = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
+Installing service RemoteServant...
+Service RemoteServant has been successfully installed.
+Creating EventLog source RemoteServant in log Application...
+Committing assembly 'D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.InstallLog
+   assemblypath = D:\PersonelSVN\trunk\RemoteServant\RemoteServant\bin\Debug\RemoteServant.exe
